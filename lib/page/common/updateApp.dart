@@ -65,7 +65,7 @@ class _UpdateAppState extends State<UpdateApp> with WidgetsBindingObserver {
                 color: TwitterColor.dodgetBlue,
                 onPressed: () {
                   launchURL(
-                      "https://play.google.com/store/apps/details?id=com.thealphamerc.flutter_twitter_clone");
+                      "https://play.google.com/store/apps/details?id=com.quyip8818.flutter_twitter_clone");
                 },
                 padding: EdgeInsets.symmetric(horizontal: 30, vertical: 10),
                 child: TitleText('Update now', color: Colors.white),
